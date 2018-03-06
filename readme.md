@@ -441,8 +441,6 @@ public function assignDriver($driver)
 ''''
 // Notifier.php
 
-<?php
-
 class Notifier
 {
     public static $IOS_NOTIFICATION = 1;
